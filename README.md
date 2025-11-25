@@ -76,7 +76,7 @@ config/
 
 # 🗃️ Architecture Diagram (High-Level) :
 
-## 📦 Deployment (LocalStack + Docker)
+# 📦 Deployment (LocalStack + Docker)
 
 ### ✔ Simulated AWS Services
 ```
@@ -111,7 +111,7 @@ docker-compose up --build
 ---
 
 
-## 🗄 Database Schema (High-Level ERD)
+# 🗄 Database Schema (High-Level ERD)
 
 ### **Patient Service**
 
@@ -209,7 +209,7 @@ POST /notify/email
 
 ---
 
-## 🧮 Build & Run Instructions
+# 🧮 Build & Run Instructions
 
 ### 🔹 Backend Microservices
 ```
