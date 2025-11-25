@@ -75,6 +75,8 @@ config/
 ```
 
 # 🗃️ Architecture Diagram (High-Level) :
+### 🏠 Screenshot 1: Project Architecture
+![arch-img](readme-source/Screenshot1.png)
 
 # 📦 Deployment (LocalStack + Docker)
 
