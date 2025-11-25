@@ -1,4 +1,4 @@
-# 🏥 Patient Management System — Microservices Architecture
+# 🏥 Patient Management System — Microservices Project
 
 ## 📘 About  
 A **production-ready, enterprise-grade Patient Management System** built using a fully distributed **microservices architecture**.  
